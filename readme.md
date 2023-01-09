@@ -25,6 +25,5 @@ Implement layout using grid layout
 - card's width is `200px` including borders
 
 ## Common mistakes
-- **IMPORTANT** Save and push your changes to GitHub manually after `deploy`
 - Do not use tabs. Use 2 spaces for indentation.
 - Don't use repeated styles.
