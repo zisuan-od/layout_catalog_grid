@@ -25,5 +25,5 @@ Implement layout using grid layout
 - card's width is `200px` including borders
 
 ## Common mistakes
-- Do not use tabs. Use 2 spaces for indentation.
+- Use 2 spaces for indentation.
 - Don't use repeated styles.
