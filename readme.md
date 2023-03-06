@@ -19,7 +19,7 @@ Implement layout using grid layout
 
 
 ## Requirements:
-- write styles in `src/styles/main.scss`
+- write styles in `src/styles/_catalog.scss`
 - use SCSS in this task
 - pay attention to the responsive
 - card's width is `200px` including borders
