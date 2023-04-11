@@ -4,15 +4,15 @@
   justify-content: center;
   gap: 48px;
 
-  @media (max-width: 1024px) {
+  @media (max-width: 1023px) {
     grid-template-columns: repeat(3, auto);
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: 767px) {
     grid-template-columns: repeat(2, auto);
   }
 
-  @media (max-width: 488px) {
+  @media (max-width: 487px) {
     grid-template-columns: repeat(1, auto);
   }
 
